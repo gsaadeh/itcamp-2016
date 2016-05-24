@@ -1,0 +1,262 @@
+[
+    {
+        "id": 14455,
+        "name": "Accenture",
+        "website": "https://www.accenture.com/ro-en",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.4c69a842-cea4-40ba-b116-a57f882be529.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14456,
+        "name": "Accesa",
+        "website": "http://www.accesa.eu/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.4d6ab6d7-357b-4089-ba5f-b0b390025920.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14586,
+        "name": "EBS",
+        "website": "http://ebs.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.426c7c3d-76b5-4c3f-a84f-02a53a112ba8.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14457,
+        "name": "Endava",
+        "website": "http://www.endava.com/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.3eb08696-e728-44be-9d5e-456188eaa6b2.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14521,
+        "name": "Evozon",
+        "website": "https://www.evozon.com/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.9422a85d-9f2d-45df-8985-a58d25272ea5.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14454,
+        "name": "FORTECH",
+        "website": "http://www.fortech.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.d73fe005-6e26-4a2f-b225-887115ef0548.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14451,
+        "name": "ISDC",
+        "website": "http://isdc.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.e8ef0692-e94a-4966-9520-11bd72995d9a.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14585,
+        "name": "Microsoft",
+        "website": "https://www.microsoft.com/ro-ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.65c4ac22-92cc-4f6c-8dca-f8d3b1b40a82.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14453,
+        "name": "Thomsons",
+        "website": "https://www.thomsons.com/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.62e52845-8a57-4ad2-9d1c-d7f0ee60b3e6.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14452,
+        "name": "YARDI",
+        "website": "http://www.yardi.com/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.228840d1-0063-4c23-80f9-8bc8479aedaf.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14461,
+        "name": "Bitdefender",
+        "website": "http://www.bitdefender.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.c621372f-1200-4575-a2e1-bd90fc636182.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14462,
+        "name": "Bringme",
+        "website": "http://www.bringme.com/en",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.98252c8e-cb3a-4932-8ba3-fb216c938b76.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14459,
+        "name": "CloudBase",
+        "website": "https://cloudbase.it/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.e87b858b-1149-4fd6-b109-07d05a6e30ab.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14460,
+        "name": "NetMatch",
+        "website": "http://www.netmatch.ro/en/home/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.7c26815f-1c69-4694-b8d6-e42e69308549.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14458,
+        "name": "RIA Solutions",
+        "website": "http://riasolutionsgroup.com/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.581715a9-d085-4683-817e-de50dfdb3209.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14463,
+        "name": "VE",
+        "website": "https://www.veinteractive.com/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.496b138b-3775-41ed-a9df-ee288cf304f0.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14465,
+        "name": "CraftingSoftware",
+        "website": "http://craftingsoftware.com/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.d4c6addf-ca75-48ea-a8f3-0b9f2a75a6d4.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14587,
+        "name": "EventsXD",
+        "website": "http://eventsxd.com/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.52a25044-d146-4b45-9439-1d1a79ebe77b.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14464,
+        "name": "Gabriels",
+        "website": "http://www.gabriels.net/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.9d7ab176-9491-480c-adb7-3ed5ece81ae7.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14466,
+        "name": "Yonder",
+        "website": "http://tss-yonder.com/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.f986be09-0253-4eea-8c1b-c192f6611d54.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14583,
+        "name": "ClujHUB",
+        "website": "http://clujhub.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.cbc62f14-37c7-4964-b1de-e04c12d4fa2e.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14519,
+        "name": "LearnNetworking",
+        "website": "http://www.learningnetwork.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.4512c82e-1b11-43de-a096-9fb8b1f1903f.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14520,
+        "name": "MobZine",
+        "website": "http://www.mobzine.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.e7ae9e75-9213-40f8-ab4a-597a6a4d4acb.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14584,
+        "name": "TechAcademy",
+        "website": "http://techacademy.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.a2e6021c-3a9a-4e87-9872-3ef265ede3e4.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14468,
+        "name": "Avaelgo",
+        "website": "http://avaelgo.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.978a9236-ae85-48de-9998-81c4401c40d7.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    },
+    {
+        "id": 14467,
+        "name": "ITCamp Community",
+        "website": "http://community.itcamp.ro/",
+        "isShowcased": false,
+        "imageUrl": "https://eventsxd.azureedge.net/itcamp2016/sponsor.itcamp2016.c8dac7d4-3bb9-492c-a3bc-1fc8a362cd4e.png",
+        "showTwitter": false,
+        "showWeb": true,
+        "showImage": true
+    }
+]

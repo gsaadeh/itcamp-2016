@@ -1,0 +1,52 @@
+<!-- Sub Banner -->
+<itc-sub-banner title="{{title}}"></itc-sub-banner>
+
+<!-- Sessions -->
+<section class="events newsection">
+    <div class="container">
+
+        <!-- Filter -->
+        <div class="eventform-con clearfix">
+            <form>
+                <div class="form-input">
+                    <input type="text" value="" placeholder="Filter sessions" [(ngModel)]="filterString">
+                    <button class="icon fa fa-filter"></button>
+                </div>
+
+                <div class="form-input" *ngIf="filterString">
+                    <button class="btn btn-danger" (click)="clearFilter()">ClEAR FILTER</button>
+                </div>
+
+            </form>
+            <!-- Event-Filter-Memu -->
+            <div class="session-filter" *ngIf="filterString">
+                Filtered by: <span class="bg-info">{{filterString}}</span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="blog col-md-12">
+                <div class="clearfix">
+
+                    <div class="event-container clearfix" *ngFor="let session of sessions | sessionFilter: filterString">
+                        <div class="event clearfix">
+                            <div class="event-content">
+                                <h3 class="title"><a href="#">{{session.name}}</a></h3>
+                                <ul class="meta">
+                                    <li class="date"><i class="icon fa fa-calendar"></i>{{session.sessionTime}}</li>
+                                    <li *ngIf="session.speakers && session.speakers.length > 0">
+                                        <a *ngFor="let speaker of session.speakers" href="#">
+                                            <i class="icon fa fa-user"></i>{{ speaker.fullName }}
+                                        </a>
+                                    </li>
+                                </ul>
+                                <p>{{session.description}}</p>
+                                <a [routerLink]="['/sessions/', session.id]" class="btn btn-primary">read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

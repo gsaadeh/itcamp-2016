@@ -1,0 +1,36 @@
+<!-- Sub Banner -->
+<itc-sub-banner title="{{title}}"></itc-sub-banner>
+
+<section class="events text-left newsection" *ngIf="selectedSession">
+    <div class="container">
+        <div class="row">
+            <!-- col-md-9 -->
+            <div class="col-md-12 col-sm-12">
+                <!--Event Detail  -->
+                <section class="event-detail newsection">
+                    <h2 class="main-title ">{{selectedSession.name}}</h2>
+                    <!-- meta -->
+                    <ul class="meta clearfix">
+                        <li class="date"><i class="icon fa fa-calendar"></i>{{selectedSession.sessionTime}} </li>
+                        <li *ngIf="selectedSession.roomName"><i class="icon fa fa-home"></i> {{selectedSession.roomName}} </li>
+                        <li *ngIf="selectedSession.buildingName"><i class="icon fa fa-map-marker"></i>{{selectedSession.buildingName}}</li>
+                        <li *ngIf="selectedSession.speakers && selectedSession.speakers.length > 0">
+                            <a *ngFor="let speaker of selectedSession.speakers" href="#">
+                                <i class="icon fa fa-user"></i>{{ speaker.fullName }}
+                            </a>
+                        </li>
+                    </ul>
+
+                    <h3 class="title">Whats About</h3>
+
+                    <p>{{selectedSession.description}}</p>
+
+                    <hr />
+                    <button class="btn btn-primary" (click)="goBack()">Go Back</button>
+
+                </section>
+
+            </div>
+        </div>
+    </div>
+</section>

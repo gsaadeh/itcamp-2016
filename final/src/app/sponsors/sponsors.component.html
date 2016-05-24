@@ -1,0 +1,20 @@
+<!-- Sub Banner -->
+<itc-sub-banner title="{{title}}"></itc-sub-banner>
+
+<!-- Sponsors -->
+<section class="event-gallery newsection">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3" *ngFor="let sponsor of sponsors">
+        <div class="event-gallery-content sponsor-content">
+          <div class="gallery-event-img">
+            <img [src]="sponsor.imageUrl" alt="sponsor.name">
+          </div>
+          <div class="content">
+            <a [href]="sponsor.website"><h3 class="title">{{sponsor.name}}</h3></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

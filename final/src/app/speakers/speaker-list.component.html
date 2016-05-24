@@ -1,0 +1,29 @@
+<!-- Sub Banner -->
+<itc-sub-banner title="{{title}}"></itc-sub-banner>
+
+<!-- Speakers -->
+<section class="newsection gallery speaker-list">
+    <div class="container">
+        <div class="blog col-md-12">
+            <div class="clearfix">
+                <div class="event-container clearfix" *ngFor="let speaker of speakers">
+                    <div class="event clearfix">
+                        <div class="eventsimg" *ngIf="speaker.showImage">
+                            <img [src]="speaker.imageUrl" alt="speaker.fullName">
+                        </div>
+                        <div class="event-content">
+                            <h3 class="title">{{speaker.fullName}}</h3>
+                            <p class="job">{{speaker.title}}, {{speaker.company}}</p>
+                            <p>{{speaker.bio}}</p>
+                            <div class="social-icon">
+                                <a [href]="speaker.url" *ngIf="speaker.showWeb" target="_blank" class="email fa fa-globe"></a>
+                                <a href="https://twitter.com/{{speaker.twitter}}" target="_blank" *ngIf="speaker.showTwitter" class="twitter fa fa-twitter"></a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
